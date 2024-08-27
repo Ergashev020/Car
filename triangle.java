@@ -7,7 +7,7 @@ public class triangle {
     public void getb(int b){
         System.out.println(b);
     }
-    public void get(int c){
+    public void getc(int c){
         System.out.println(c);
     }
 
